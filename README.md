@@ -3,7 +3,7 @@
 
 Hi, my name is João Ohashi, and I'm a computer science student in my fourth semester at ***Federal University of Pernambuco (UFPE)***
 
-I love to explore new tools and technologies, always trying to understand them better and how to use it properly. Also, I love to challenge myself with new and challenging problems, so that I can improve the professional I'm trying to be and engage in new projects. My current interests include **software development, data science, and creating efficient, user-focused solutions.**
+I love to explore new tools and technologies, always trying to understand them better and how to use it properly. Also, I love to challenge myself with new and challenging problems, so that I can improve the professional I'm trying to be and engage in new projects. I'm passionate about technology and about learning new habilities. My current interests include **software development, data analytics, and developing efficient, user-focused solutions**
 
 Feel free to explore my repositories and contact me 💬
 
