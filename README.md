@@ -38,7 +38,7 @@ Feel free to explore my repositories and contact me 💬
 
 <div style="display: inline_block"><br />
     <a href="https://www.python.org/" target="_blank"><img align="center" alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"/></a>
-    <a href="https://cplusplus.com/" target="_blank"><img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B"/></a>
+    <a href="https://cplusplus.com/" target="_blank"><img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=blue"/></a>
     <a href="https://nodejs.org/" target="_blank"><img align="center" alt="Node.Js" src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js"/></a>
     <a href="https://www.java.com/" target="_blank"><img align="center" alt="Java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk"/></a>
     <a href="https://www.mysql.com/" target="_blank"><img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql"/></a>
@@ -59,7 +59,7 @@ Feel free to explore my repositories and contact me 💬
 ### 🧪 🔍 Software Tests
 
 <div style="display: inline_block">
-    <a href="https://jestjs.io" target="_blank"><img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=Jest&logoColor=white"/></a>
+    <a href="https://jestjs.io" target="_blank"><img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=Jest&logoColor=red"/></a>
 </div>
 
 ## 📊 Github stats and My Activity
