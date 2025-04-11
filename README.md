@@ -7,9 +7,9 @@ I love to explore new tools and technologies, always trying to understand them b
 
 Feel free to explore my repositories and contact me 💬
 
-<div>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF2D00&background=FF2D0000&center=true&vCenter=true&width=1000&lines=João+Ohashi;Computer+Science+Student;Software+Developer;Data+Science+Enthusiast" alt="Typing SVG" />
-</div>
+
+<a href="https://git.io/typingsvg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1E90FF&background=FF2D0000&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+João+Ohashi+!;I'm+20+years+old;Computer+Science+Student;Software+Developer" alt="Typing SVG" /></a>
 
 ## 👥 Find me
  
