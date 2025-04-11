@@ -70,6 +70,6 @@ Feel free to explore my repositories and contact me 💬
 </div>
 
 ## 🔥 Extras
-- **Always learning and improving**
-- **Open to collaborations and new challenges**
-- **Passionate about problem-solving & technology**
+* **Always learning and improving**
+* **Open to collaborations and new challenges**
+* **Passionate about problem-solving & technology**
